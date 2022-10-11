@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfCaixa xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Caixa>
+    <Cor>preta</Cor>
+    <Etiqueta>herois</Etiqueta>
+    <Numero>45</Numero>
+  </Caixa>
+  <Caixa>
+    <Cor>vermelha</Cor>
+    <Etiqueta>moda</Etiqueta>
+    <Numero>77</Numero>
+  </Caixa>
+  <Caixa>
+    <Cor>azul</Cor>
+    <Etiqueta>ficção</Etiqueta>
+    <Numero>22</Numero>
+  </Caixa>
+</ArrayOfCaixa>

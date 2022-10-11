@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<ArrayOfEmprestimo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Emprestimo>
+    <Amigo>
+      <Nome>Gabriel Marques</Nome>
+      <NomeResponsavel>Paulo Marques</NomeResponsavel>
+      <Endereco>Moradas Lages 228</Endereco>
+      <Telefone>49 98035074</Telefone>
+    </Amigo>
+    <Revista>
+      <Nome>batman</Nome>
+      <Colecao>herois</Colecao>
+      <Edicao>354</Edicao>
+      <Ano>1998</Ano>
+      <Caixa>
+        <Cor>preta</Cor>
+        <Etiqueta>herois</Etiqueta>
+        <Numero>45</Numero>
+      </Caixa>
+    </Revista>
+    <DataEmprestimo>08/04</DataEmprestimo>
+    <DataDevolucao>15/04</DataDevolucao>
+  </Emprestimo>
+</ArrayOfEmprestimo>

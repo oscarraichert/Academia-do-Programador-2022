@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<ArrayOfRevista xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Revista>
+    <Nome>hulk</Nome>
+    <Colecao>herois</Colecao>
+    <Edicao>3</Edicao>
+    <Ano>1976</Ano>
+    <Caixa>
+      <Cor>preta</Cor>
+      <Etiqueta>herois</Etiqueta>
+      <Numero>45</Numero>
+    </Caixa>
+  </Revista>
+  <Revista>
+    <Nome>batman</Nome>
+    <Colecao>herois</Colecao>
+    <Edicao>354</Edicao>
+    <Ano>1998</Ano>
+    <Caixa>
+      <Cor>preta</Cor>
+      <Etiqueta>herois</Etiqueta>
+      <Numero>45</Numero>
+    </Caixa>
+  </Revista>
+</ArrayOfRevista>

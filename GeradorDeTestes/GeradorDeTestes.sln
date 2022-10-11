@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeradorDeTestes.WinApp", "GeradorDeTestes.WinApp\GeradorDeTestes.WinApp.csproj", "{F071234E-37D6-4F8F-96DF-899798A7BDB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F071234E-37D6-4F8F-96DF-899798A7BDB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F071234E-37D6-4F8F-96DF-899798A7BDB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F071234E-37D6-4F8F-96DF-899798A7BDB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F071234E-37D6-4F8F-96DF-899798A7BDB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82E75277-EE18-4D64-B189-086EEAB12CE1}
+	EndGlobalSection
+EndGlobal

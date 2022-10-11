@@ -1,0 +1,23 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "main": "pokemon.services.js",
+  "scripts": {
+    "start": "tsc --w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarraichert/Pokedex.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oscarraichert/Pokedex/issues"
+  },
+  "homepage": "https://github.com/oscarraichert/Pokedex#readme",
+  "description": ""
+}
